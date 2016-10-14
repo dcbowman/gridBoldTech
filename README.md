@@ -1,1 +1,1 @@
-# gridBoldTech
+Responsive grid assigment for Bold! 

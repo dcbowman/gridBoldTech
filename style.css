@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+#block{
+  display:inline-flex;
+  float: none;
+  text-align:center;
+  background-image: url(redImage.jpg);
+  background-repeat: no-repeat;
+  height:200px;
+  width:200px;
+  clear:both;
+}
+
+
+
